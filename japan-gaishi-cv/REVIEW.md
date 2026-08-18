@@ -1,9 +1,11 @@
 # 呢份 CV 評估（Herman Mok · 日本大型外資）
 
 **結論：排版幾乾淨，但直接投大型外資 / non-Japanese culture 公司，問題唔細。**  
-唔係「完全唔用得」，而係而家呢版會喺 ATS、LinkedIn 對照、空窗期、日文同職稱呢幾關被濾走。
+唔係「完全唔用得」，而係而家呢版會喺 ATS、LinkedIn 對照、**日期寫錯**、日文同職稱呢幾關被濾走。
 
 對象文件：`Herman_-_resume__new__29e0.pdf`（Word 2016 出、A4、2 頁、左欄標題 + 右欄內容）
+
+**更正（本人確認）：** SFC 做到 **2026-06**；**2026-07** 到東京。PDF 印住 Jun 2025 係錯。訊息寫過 Jul 2027——今日係 2026-08、人已在 Koto 搵工，所以稿用 Jul 2026；若真係 2027 先到，再講。
 
 ---
 
@@ -11,7 +13,7 @@
 
 | 公司類型 | 呢份 CV |
 |---|---|
-| 大型外資（Google、Amazon、Microsoft、Accenture、Bloomberg、Pfizer 等）英文職 | **唔好原檔照交**。要改成單欄、成就導向、解釋 2025-06 之後、職稱對齊 data/BI |
+| 大型外資（Google、Amazon、Microsoft、Accenture、Bloomberg、Pfizer 等）英文職 | **唔好原檔照交**。要改成單欄、成就導向、**SFC 日期改 Jun 2026**、職稱對齊 data/BI |
 | 日企 / 日文職 | 更加唔得：日文 Beginner + 無履歴書；呢條路而家唔 realistic |
 | 細外資 / 香港公司日本 office | 勉強可用，但仍要修 P0 |
 
@@ -21,26 +23,20 @@
 
 ## 2. P0 — 交之前一定要改
 
-### 1) 2025 年 6 月之後空白，Summary 仲用而家式
+### 1) 原 PDF 把 SFC 寫成 Jun 2025——呢個先係即死級
 
-最後一份工：SFC **Oct 2021 – Jun 2025**。今日係 2026-08，空窗約 **14 個月**。  
-Summary 寫 *Currently designing and delivering…*，但 CV 入面已經冇現職。外資 recruiter 第一條就會問。
+正確：**Oct 2021 – Jun 2026**，**Jul 2026 搬到東京**。而家 2026-08，空窗只有大約 **一個月**，搬完即求職，外資完全接受。
 
-要揀一句誠實嘅，寫喺頂部或 Summary 尾：
+但你交出去嗰份仍然印 **Jun 2025**。Recruiter 會當你空窗 14 個月，同真實時間線相反。Word 源檔同 LinkedIn **一齊改 Jun 2026**。
 
-- 搬咗嚟東京（Koto 已寫）求職  
-- 讀日文 / 等簽證  
-- 有現職但未寫  
-
-**唔好當冇呢 14 個月。**
+Summary 寫 *Currently designing…* 亦唔啱：已經離職。改做 *Most recently…* + 一句 *Relocated to Tokyo in July 2026*。
 
 ### 2) LinkedIn 同 CV 對唔上
 
 CV LinkedIn：`linkedin.com/in/hoimanmok-herman`  
 公開索引到嘅相近檔：`Hoi Man Mok` · System Analyst at SFC · **Hong Kong · Oct 2021 – Present**（仍顯示在職）。
 
-Recruiter 收 PDF 下一秒開 LinkedIn。地點東京 vs 香港、結束 Jun 2025 vs Present，會當資料唔可靠。  
-**CV、LinkedIn、日期、地點、職稱要同一日對齊。** 順便確認 URL 係咪真係打得開；打唔開就換正確 vanity URL。
+Recruiter 收 PDF 下一秒開 LinkedIn。要同一日改成：**SFC 結束 Jun 2026、Location Tokyo**。URL 打唔開就換正確 vanity。
 
 ### 3) 電話格式錯
 
@@ -109,7 +105,7 @@ Vertex AI / GenAI 如果唔寫 **邊個 use case**（內部搜尋、RAG、報告
 
 不利：
 
-- 空窗 14 個月未解釋  
+- 原 PDF 日期仍係 Jun 2025（錯）  
 - 日文 Beginner  
 - 合約工（NewRecs / Manpower）— 寫明就 OK，唔好扮 SFC 正式員工  
 - GenAI 深度未知；engineering（CI/CD、dbt、Spark）證據薄  
@@ -157,8 +153,8 @@ Vertex AI / GenAI 如果唔寫 **邊個 use case**（內部搜尋、RAG、報告
 ## 7. 交 CV 前 checklist
 
 - [ ] 單欄 PDF，最多 2 頁（而家 1 頁稿已夠）  
-- [ ] 解釋 2025-06 之後；Summary 唔好再用 Currently（除非真係在職）  
-- [ ] LinkedIn 日期/地點/職銜 = PDF  
+- [ ] SFC 日期 **Jun 2026**；一句 Relocated to Tokyo, July 2026；Summary 唔用 Currently  
+- [ ] LinkedIn = PDF（東京、離職 Jun 2026）  
 - [ ] 電話 `+81 80-9078-5842`  
 - [ ] 簽證一行；日文 Beginner 保留誠實  
 - [ ] Headline 改 data/BI，唔好淨 System Analyst  

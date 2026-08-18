@@ -4,7 +4,7 @@
 Koto, Tokyo, Japan · +81 80-9078-5842 · hoimanmok@gmail.com  
 [linkedin.com/in/hoimanmok-herman](https://www.linkedin.com/in/hoimanmok-herman) · Japanese: Beginner · Work authorization: *[fill — e.g. already eligible / needs sponsorship]*
 
-Eight years in business intelligence, data engineering, and applied GenAI across financial services, healthcare, insurance, and retail. Most recently in the BI team at Hong Kong’s securities regulator (SFC): data models, ETL/ELT, Power BI, and Generative AI APIs on Vertex AI. Relocated to Tokyo (from Jul 2025). Open to English-speaking analytics roles at global firms.
+Nine years in business intelligence, data engineering, and applied GenAI across financial services, healthcare, insurance, and retail. Most recently in the BI team at Hong Kong’s securities regulator (SFC): data models, ETL/ELT, Power BI, and Generative AI APIs on Vertex AI. Relocated to Tokyo in July 2026. Open to English-speaking analytics roles at global firms.
 
 ## Skills
 
@@ -17,7 +17,7 @@ Eight years in business intelligence, data engineering, and applied GenAI across
 ## Experience
 
 ### System Analyst (BI / Data & AI) — Securities and Futures Commission *(via NewRecs Consultancy)*
-*Oct 2021 – Jun 2025 · Hong Kong · Business Intelligence Team, IT*
+*Oct 2021 – Jun 2026 · Hong Kong · Business Intelligence Team, IT*
 
 - Gathered and analysed requirements; designed data models for analytics and AI use cases.
 - Built and ran ETL/ELT pipelines; developed and maintained BI dashboards and reports.
