@@ -1,21 +1,22 @@
-# Japan gaishikei CV pack (Jackal Lau)
+# Japan gaishikei CV pack — Herman Mok
 
-English Western-style resume for **large foreign-capital / non-Japanese-culture** employers in Japan.
+Review of `Herman_-_resume__new__29e0.pdf` for **large foreign-capital / non-Japanese-culture** employers in Tokyo.
 
 | File | Use |
 |---|---|
-| `REVIEW.md` | Cantonese review: what is wrong with the current CV for this target |
-| `Jackal-Lau-Resume-EN.pdf` | Send this (after filling Japanese / visa / metrics) |
-| `Jackal-Lau-Resume-EN.html` | Edit, then Print to PDF (A4) |
-| `Jackal-Lau-Resume-EN.md` | Plain-text source for ATS or LinkedIn About |
+| `REVIEW.md` | Cantonese review of the uploaded CV |
+| `Herman-Mok-Resume-EN.pdf` | Send this after filling visa + LinkedIn URL check + metrics |
+| `Herman-Mok-Resume-EN.html` | Edit, then Chrome print to A4 PDF |
+| `Herman-Mok-Resume-EN.md` | Plain-text source |
 
 Regenerate PDF:
 
 ```bash
-google-chrome --headless --disable-gpu --no-pdf-header-footer \
-  --print-to-pdf=japan-gaishi-cv/Jackal-Lau-Resume-EN.pdf \
-  japan-gaishi-cv/Jackal-Lau-Resume-EN.html
+timeout 25 google-chrome --headless --disable-gpu --no-sandbox \
+  --disable-dev-shm-usage --user-data-dir=/tmp/chrome-cv \
+  --no-pdf-header-footer \
+  --print-to-pdf=japan-gaishi-cv/Herman-Mok-Resume-EN.pdf \
+  file://$PWD/japan-gaishi-cv/Herman-Mok-Resume-EN.html
 ```
 
-Do **not** put internal Azure subscription IDs, hostnames, or tenant IDs on the CV.
-The GitHub repo is public — avoid adding phone numbers if you merge this.
+This GitHub repo is **public**. Phone and email are on the source CV; consider that before merging.
